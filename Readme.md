@@ -11,13 +11,13 @@ Models used :
 - K-Nearest Neighbors (KNN)
 
 ## File Structure
+```text
 Ml-task1-FawazJW32/
-│
-├── modeling.ipynb      # Model training, evaluation, and comparison
-├── README.md           # Project documentation
-└── requirements.txt    # Project dependencies
----
-
+|
+|-- modeling.ipynb
+|-- README.md
+`-- requirements.txt
+```
 ## Dataset
 Breast Cancer Wisconsin dataset from `scikit-learn`:
 - 569 samples
