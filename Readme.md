@@ -10,6 +10,12 @@ Models used :
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
 
+## File Structure
+Ml-task1-FawazJW32/
+│
+├── modeling.ipynb      # Model training, evaluation, and comparison
+├── README.md           # Project documentation
+└── requirements.txt    # Project dependencies
 ---
 
 ## Dataset
